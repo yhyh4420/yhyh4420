@@ -11,6 +11,8 @@
 ### 📖 About Data Science, Data Analysis, AI  
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/pandas-6610f2?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/numpy-7577b4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/pytorch-025E8C?style=for-the-badge&logo=pytorch&logoColor=white)
 
