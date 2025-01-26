@@ -4,22 +4,18 @@
 
 
 ## My Tech Stack 🚀
-
---------
-### About Backend 💻
+### 💻 About Backend
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### About Data Science, Data Analysis, AI 📖 
+### 📖 About Data Science, Data Analysis, AI  
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/pytorch-025E8C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
-## Career and Education
-
----------------
+## 🧑‍🏫 Career and Education
 ✈️⚙️ **ROK Airforce Academy** (Cheongju/Korea)<br>
 _**Bacheor's degree of Aerospace Engineering**, MAR 2015-MAR 2019_<br>
 
@@ -31,3 +27,10 @@ _**Master's degree of Data Science&Artifical Intelligence**, SEP 2023-present_<b
 
 🧑‍💻 **KakaoTech Bootcamp** (Pangyo/Korea)<br>
 _**FullStack**, JAN 2025-present_<br>
+
+## 💡Certificate
+|   date   |               certificate               |                           agency                            |
+|:--------:|:---------------------------------------:|:-----------------------------------------------------------:|
+| JUN 2023 |                  ADsP                   |             Korea Data Agency<br/>(한국데이터산업진흥원)              |
+| JUN 2024 |                  SQLLD                  |             Korea Data Agency<br/>(한국데이터산업진흥원)              |
+| JUN 2024 | Engineer Information Processing<br/>(정보처리기사) | Human Resources Developnemt Service of Korea<br/>(한국산업인력공단) |
