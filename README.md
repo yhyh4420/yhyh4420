@@ -28,7 +28,7 @@ _**Intelligence Officer, from 2ndLT to Captain**, MAR 2019-DEC 2024_<br>
 _**Master's degree of Data Science&Artifical Intelligence**, SEP 2023-present_<br>
 
 🧑‍💻 **KakaoTech Bootcamp** (Pangyo/Korea)<br>
-_**FullStack**, JAN 2025-present_<br>
+_**FullStack Student**, JAN 2025-present_<br>
 
 ## 💡Certificate
 |   date   |               certificate               |                           agency                            |
