@@ -1,5 +1,6 @@
 # Hi! I'm YEHUN CHANG!
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## My Tech Stack 🚀
 ### 💻 About Backend
