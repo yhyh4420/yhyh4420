@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=200&section=header&text=Welcome%20to%20Yehun's%20github!&fontSize=50&animation=twinkling)
-
 # Hi! I'm YEHUN CHANG!
 
 
@@ -18,21 +16,24 @@
 
 
 ## 🧑‍🏫 Career and Education
-✈️⚙️ **ROK Airforce Academy** (Cheongju/Korea)<br>
-_**Bacheor's degree of Aerospace Engineering**, MAR 2015-MAR 2019_<br>
-
-🪖 **ROK Airforce Officer** (GwangjuAB and OsanAB)<br>
-_**Intelligence Officer, from 2ndLT to Captain**, MAR 2019-DEC 2024_<br>
+🧑‍💻 **KakaoTech Bootcamp** (Pangyo/Korea)<br>
+_**FullStack Student**, JAN 2025-present_<br>
 
 🤖 **Sogang University** (Seoul/Korea)<br>
 _**Master's degree of Data Science&Artifical Intelligence**, SEP 2023-present_<br>
 
-🧑‍💻 **KakaoTech Bootcamp** (Pangyo/Korea)<br>
-_**FullStack Student**, JAN 2025-present_<br>
+🪖 **ROK Airforce Officer** (GwangjuAB and OsanAB)<br>
+_**Intelligence Officer, from 2ndLT to Captain**, MAR 2019-DEC 2024_<br>
+
+✈️⚙️ **ROK Airforce Academy** (Cheongju/Korea)<br>
+_**Bacheor's degree of Aerospace Engineering**, MAR 2015-MAR 2019_<br>
+
+
+
 
 ## 💡Certificate
 |   date   |                 certificate                  |                           agency                            |
 |:--------:|:--------------------------------------------:|:-----------------------------------------------------------:|
-| JUN 2023 |                     ADsP                     |             Korea Data Agency<br/>(한국데이터산업진흥원)              |
 | JUN 2024 |                     SQLD                     |             Korea Data Agency<br/>(한국데이터산업진흥원)              |
 | JUN 2024 | Engineer Information Processing<br/>(정보처리기사) | Human Resources Developnemt Service of Korea<br/>(한국산업인력공단) |
+| JUN 2023 |                     ADsP                     |             Korea Data Agency<br/>(한국데이터산업진흥원)              |
