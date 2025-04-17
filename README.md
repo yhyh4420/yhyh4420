@@ -29,8 +29,6 @@ _**Intelligence Officer, from 2ndLT to Captain**, MAR 2019-DEC 2024_<br>
 _**Bacheor's degree of Aerospace Engineering**, MAR 2015-MAR 2019_<br>
 
 
-
-
 ## 💡Certificate
 |   date   |                 certificate                  |                           agency                            |
 |:--------:|:--------------------------------------------:|:-----------------------------------------------------------:|
