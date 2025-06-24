@@ -25,6 +25,8 @@ jobs:
           git config user.name "yhyh4420"
           git config user.email "yhyh4420@naver.com"
           git remote set-url origin https://yhyh4420:${GITHUB_TOKEN}@github.com/yhyh4420/yhyh4420.git
+
+          git pull --rebase origin main
           git add -A .
           git commit -m "generated" || echo "nothing to commit"
           git push origin main
