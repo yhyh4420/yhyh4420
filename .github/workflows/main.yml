@@ -1,35 +1,28 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
+  schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-        with:
-          persist-credentials: false
-
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-
       - name: Commit & Push
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
-          git config user.name "yhyh4420"
-          git config user.email "yhyh4420@naver.com"
-          git remote set-url origin https://yhyh4420:${GITHUB_TOKEN}@github.com/yhyh4420/yhyh4420.git
-
-          git fetch origin main
-          git reset --hard origin/main  # ⭐ 변경사항 초기화
-
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated" || echo "nothing to commit"
-          git push origin main
+          if git commit -m "generated"; then
+            git push
+          fi
