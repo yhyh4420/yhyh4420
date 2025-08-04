@@ -18,7 +18,7 @@
 
 ## 🧑‍🏫 Career and Education
 🧑‍💻 **KakaoTech Bootcamp** (Pangyo/Korea)<br>
-_**FullStack Student**, JAN 2025-present_<br>
+_**FullStack Student**, JAN 2025-AUG 2025<br>
 
 🤖 **Sogang University** (Seoul/Korea)<br>
 _**Master's degree of Data Science&Artifical Intelligence**, SEP 2023-present_<br>
@@ -35,4 +35,5 @@ _**Bacheor's degree of Aerospace Engineering**, MAR 2015-MAR 2019_<br>
 |:--------:|:--------------------------------------------:|:-----------------------------------------------------------:|
 | JUN 2024 |                     SQLD                     |             Korea Data Agency<br/>(한국데이터산업진흥원)              |
 | JUN 2024 | Engineer Information Processing<br/>(정보처리기사) | Human Resources Developnemt Service of Korea<br/>(한국산업인력공단) |
+
 | JUN 2023 |                     ADsP                     |             Korea Data Agency<br/>(한국데이터산업진흥원)              |
