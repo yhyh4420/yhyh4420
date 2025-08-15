@@ -38,6 +38,6 @@ _**Bacheor's degree of Aerospace Engineering**, MAR 2015-MAR 2019_<br>
 |:--------:|:--------------------------------------------:|:-----------------------------------------------------------:|
 | JUN 2024 |                     SQLD                     |             Korea Data Agency<br/>(한국데이터산업진흥원)              |
 | JUN 2024 | Engineer Information Processing<br/>(정보처리기사) | Human Resources Developnemt Service of Korea<br/>(한국산업인력공단) |
-
 | JUN 2023 |                     ADsP                     |             Korea Data Agency<br/>(한국데이터산업진흥원)              |
+
 
