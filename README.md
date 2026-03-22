@@ -17,6 +17,9 @@
 
 
 ## 🧑‍🏫 Career and Education
+  **Postype** (Seoul/Korea)<br>
+_**Backend Engineer**, SEP 2025~present  
+
 🧑‍💻 **KakaoTech Bootcamp** (Pangyo/Korea)<br>
 _**FullStack Student**, JAN 2025-AUG 2025<br>
 * Team Leader of 1st Project (Jan 2025 – Mar 2025)<br>
