@@ -17,7 +17,7 @@
 
 
 ## 🧑‍🏫 Career and Education
-  **Postype** (Seoul/Korea)<br>
+🧑‍💻 **Postype** (Seoul/Korea)<br>
 _**Backend Engineer**, SEP 2025~present  
 
 🧑‍💻 **KakaoTech Bootcamp** (Pangyo/Korea)<br>
